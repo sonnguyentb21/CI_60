@@ -1,0 +1,21 @@
+				Section1: CI
+I. Module
+a, Khái niệm:
+- chứa nhiều function(){...}
+- chứa nhiều file
+b, Tính chất:
+- Tính độc lập
+	m1.js					m2.js
+	Vd: let a = 10;			let b = 20; // độc lập với những cái bên ngoài
+- Tính khả chuyển 
+	+) 1 mdule có thể dùng được nhiều lần
+	+) vd: app.js
+		1 -> 100 : Tính toán: (Mdule1) -> xuất ra sum(fix) -> md1 fix
+		101 -> 200: Hiển thị: (Mdule2)
+ Note key:  -) Export cần dấu {} 
+            -) import
+            -) export default: không cần dấu ngoặc{}
+            => ES6 đổ lên mới có
+            Buổi sau học OPP
+            toggle('reverse') // hiểu giống như công tắc điện có 'reverse' thì tắt, không có 'reverse' thì thêm vào
+	

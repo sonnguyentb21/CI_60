@@ -1,0 +1,4 @@
+
+
+            Design Pattern(key word: more use)
+            Note: get, set

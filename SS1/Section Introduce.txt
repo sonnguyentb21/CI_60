@@ -1,0 +1,33 @@
+  					Code Intensive Jacascript - 12 buổi (IMPORTANT)
+
+I, Target
+1. Nâng cao năng lực tư duym giải quyết bài toán
+2. Nâng cao kiến thức về ngôn ngữ Javscript
+3. Nền tảng học các khóa fullstack/
+II, Knowledge
+- ES6: javascript version 2015
+- Module: tách ra nhiều small file
+- OOP: lập trình hướng đối tượng: detail b2,3
+- WebComponent: B4,5
+- Asynchronous: B5,b6
+- Errors Handling: fix ngoại lệ, what fix?
+- function&callback:
+- cloud Firestore
+- HTML & CSS: Tạo bố cục, định dạng lạitrang web
+- Responsive: phù hợp các phần mềm dt, laptop
+- Git: Công nghệ quản lí mã nguồn
+- Github: conserver
+III, Nội quy
+- Không làm bài tập: 10k
+- Nộp muộn: 5k
+- bài test vào thứ 6: giữa buổi học.
+- bài test đầu buổi: 10-15p
+IV, Plan
+ Select 1 -> Select 5: Học LT
+ Select 2 -> Select 6: Chia nhóm là bài tập theo nhóm
+ Buổi cuối cùng: Hackathon: 12hrs
+ Buổi cuối cùng của cuối cùng: Demo sản phẩm
+
+
+
+

@@ -1,0 +1,35 @@
+I, Ngày 10/04/2021(Buổi2)
+
+1. Khái niệm: OOP là phương pháp/ kĩ thuật, tạo đối tượng
+    - Vì sao?
+    - Dữ Liệu
+    Ví dụ: Liệt kê Old lover/Crush
+    - Cần OPP để mô tả được data phức tạp
+    - Mô tả mối quan hệ giữa các data với nhau
+    - Tổ chức code(kiến trúc hệ thống)
+2. Tính năng: Dễ bảo trì + nâng cấp
+
+3, Object: thuộc tính + phương thức
+
+4, Class: Bản thiết kế tạo ra Object
+Ex: Class
+        - Name
+        - Age
+        - Address
+        Từ 1 Class tạo ra nhiều đối tượng 
+
+phương thức: Số
+            - String
+            - Bool
+            - Null
+
+4 Tính Chất: 
+- ** Kế Thừa
+- ** Đa hình
+- Trừu Tượng
+- Đóng gói
+- Che dấu dữ liệu:
+
+// Buổi sau kiểm tra Mô đun
+
+

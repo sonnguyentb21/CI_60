@@ -1,0 +1,52 @@
+1,Kn:Lập trình hướng đối tượng (OOP) là một kỹ thuật lập trình cho phép lập trình viên tạo ra các đối tượng trong code trừu tượng hóa các đối tượng.
+
+2,Kn: Lớp là các đối tượng có các đặc tính tương tự nhau được gom lại thành một lớp đối tượng.
+Đối tượng
+- Tính chất:Một đối tượng bao gồm 2 thông tin: thuộc tính và phương thức.
+- kn: Thuộc tính chính là những thông tin, đặc điểm của đối tượng.
+        Ví dụ: con người có các đặc tính như mắt, mũi, tay, chân…
+- Kn: Phương thức là những thao tác, hành động mà đối tượng đó có thể thực hiện. 
+        Ví dụ: một người sẽ có thể thực hiện hành động nói, đi, ăn, uống, . . .
+
+3,Kn: Đối tượng là những sự vật, sự việc mà nó có những tính chất, đặc tính, hành động giống nhau và ta gom góp lại thành đối tượng giống trong thực tế cuộc sống. Khi lập trình OOP, 
+ Chúng ta sẽ định nghĩa các lớp (class) để gom (mô hình) các đối tượng thực tế.
+
+ - Tính chất: Một đối tượng bao gồm 2 thông tin: thuộc tính và phương thức.
+ - Thuộc tính chính là những thông tin, đặc điểm của đối tượng. Ví dụ: con người có các đặc tính như mắt, mũi, tay, chân…
+ - Phương thức là những thao tác, hành động mà đối tượng đó có thể thực hiện. Ví dụ: một người sẽ có thể thực hiện hành động nói, đi, ăn, uống, . . .
+
+4, OPP gồm có 4 tính chất:
+
+** Tính đóng gói
+- Các dữ liệu và phương thức có liên quan với nhau được đóng gói thành các lớp để tiện cho việc quản lý và sử dụng. Tức là mỗi lớp được xây dựng để thực hiện một nhóm chức năng đặc trưng của riêng lớp đó.
+- Ngoài ra, đóng gói còn để che giấu một số thông tin và chi tiết cài đặt nội bộ để bên ngoài không thể nhìn thấy.
+
+** Tính kế thừa
+- Nó cho phép xây dựng một lớp mới dựa trên các định nghĩa của lớp đã có.Có nghĩa là lớp cha có thể chia sẽ dữ liệu và phương thức cho các lớp con. Các lớp con khỏi phải định nghĩa lại, ngoài ra có thể mở rộng các thành phần kế thừa và bổ sung thêm các thành phần mới.
+- Tái sử dụng mã nguồn 1 cách tối ưu, tận dụng được mã nguồn. Một số loại kế loại kế thừa thường gặp: đơn kế thừa, đa kế thừa, kế thừa đa cấp, kế thừa thứ bậc.
+- Khi bắt đầu xây dựng ứng dụng chúng ta sẽ bắt đầu thiết kế định nghĩa các lớp trước.
+- Thông thường một số lớp có quan hệ với những lớp khác, chúng có những đặc tính giống nhau.
+
+** Tính đa hình
+- Tính đa hình là một hành động có thể được thực hiện bằng nhiều cách khác nhau. 
+- Có thể nói đây là một tính chất có thể nói là chứa đựng hầu hết sức mạnh của lập trình hướng đối tượng.
+- (Đa hình là khái niệm mà hai hoặc nhiều lớp có những phương thức giống nhau nhưng có thể thực thi theo những cách thức khác nhau.)
+- Ví dụ: Ta có 2 con vật: chó, mèo. Cả 2 con vật này đều là lớp động vật. Nhưng khi ta bảo cả 2 động vật kêu thì con chó sẽ kêu gâu gâu, con mèo sẽ kêu meo meo.
+
+** Tính trừu tượng
+- KN: Trừu tượng có nghĩ là tổng quát hóa một cái gì đó lên, không cần chú ý chi tiết bên trong. Nó không màng đến chi tiết bên trong là gì và người ta vẫn hiểu nó mỗi khi nghe về nó.
+- VD:Bạn chạy xe tay ga thì có hành động là tăng ga để tăng tốc, thì chức năng tăng ga là đại diện cho trừu tượng (abstraction). Người dùng chỉ cần biết là tăng ga thì xe tăng tốc, không cần biết bên trong nó làm thế nào.
+- Tính chất: Tính trừu tượng nghĩa là chọn ra các thuộc tính, phương thức của đối tượng cần cho việc giải quyết bài toán đang lập trình. Vì một đối tượng có rất nhiều thuộc tính phương thức, nhưng với bài toán cụ thể không nhất thiết phải chọn tất cả.
+- VD:Ví dụ: Bài toán quản lý sinh viên chúng ta chỉ cần quản lý các thông tin như
+
+Họ tên
+Ngày sinh
+Giới tính
+…
+Điểm thi
+mà lại không cần quản lý thêm các thông tin:
+
+Kiểu Tóc
+Sở thích,
+Tính cách
+Tại vì chúng thực sự không cần thiết.
